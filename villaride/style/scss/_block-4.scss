@@ -153,6 +153,9 @@
               font-size: 2em;
               font-weight: 700;
               text-transform: uppercase;
+              > span {
+                color: #dd3232;
+              }
             }
           }
           > .product {
@@ -295,6 +298,9 @@
                   font-weight: 400;
                   border-right: 1px solid #cfcfcf;
                   @media (max-width: 400px) { font-size: 0.8em;}
+                  > span {
+                    color: #dd3232;
+                  }
                 }
                 > div:last-child{
                   border: none;

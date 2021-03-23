@@ -7498,6 +7498,9 @@ video {
   font-weight: 700;
   text-transform: uppercase;
 }
+.block-4 > div > div > .card > .left > .title > h2 > span {
+  color: #dd3232;
+}
 .block-4 > div > div > .card > .left > .product {
   margin: 30px 0 0 0;
   position: relative;
@@ -7658,6 +7661,9 @@ video {
   .block-4 > div > div > .card > .left > .product > .table > .info > div {
     font-size: 0.8em;
   }
+}
+.block-4 > div > div > .card > .left > .product > .table > .info > div > span {
+  color: #dd3232;
 }
 .block-4 > div > div > .card > .left > .product > .table > .info > div:last-child {
   border: none;

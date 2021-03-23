@@ -444,7 +444,7 @@ get_header();
 						<p>Помните - по стоимости всегда можно договориться</p>
           </div>
 
-          <div class="">
+          <div class="var-1">
 
             <div class="card d-flex flex-justify-between">
 
@@ -452,7 +452,7 @@ get_header();
 
                 <div class="title d-flex flex-align-center">
                   <div class="decoration"></div>
-                  <h2>Вариант № 1 СПЕЦ ПРЕДЛОЖЕНИЕ</h2>
+                  <h2>Вариант № 1 <span>СПЕЦ ПРЕДЛОЖЕНИЕ</span></h2>
                 </div>
 
                 <div class="product d-flex">
@@ -472,31 +472,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">7 700р.</div>
-                      <div class="">16 200р.</div>
+                      <div class=""><span>14 500р.</span></div>
                       <div class="">3 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">8 700р.</div>
-                      <div class="">20 600р.</div>
+                      <div class=""><span>18 500р.</span></div>
                       <div class="">4 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">10 700р.</div>
-                      <div class="">26 600р.</div>
+                      <div class=""><span>22 500р.</span></div>
                       <div class="">4 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">13 700р.</div>
-                      <div class="">32 400р.</div>
+                      <div class=""><span>27 500р.</span></div>
                       <div class="">5 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">16 200р.</div>
-                      <div class="">38 300р.</div>
+                      <div class=""><span>31 000р.</span></div>
                       <div class="">5 500р.</div>
                     </div>
 
@@ -514,7 +514,7 @@ get_header();
 												<h2>БОЛТОВОЕ СОЕДЕНЕНИЕ / устойчива к ржавчине</h2>
 											</div>
 											<div class="h-line"></div>
-											<p>Соединение – «гайка-болт».</p>
+											<p>Соединение – «гайка-болт» (краб система докупается отдельно).</p>
 											<div class="h-line"></div>
 											<p>Прямоугольный профиль выдерживает снеговые нагрузки более 80 кг/м2 и ветровые до 25 м/с.</p>
 											<div class="h-line"></div>
@@ -553,7 +553,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-2">
 
             <div class="card d-flex flex-justify-between">
 
@@ -581,31 +581,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">13 000р.</div>
-                      <div class="">19 000р.</div>
+                      <div class="">20 200р.</div>
                       <div class="">3 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">15 600р.</div>
-                      <div class="">23 600р.</div>
+                      <div class="">24 800р.</div>
                       <div class="">4 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">18 100р.</div>
-                      <div class="">28 600р.</div>
+                      <div class="">29 800р.</div>
                       <div class="">4 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">20 000р.</div>
-                      <div class="">33 000р.</div>
+                      <div class="">34 200р.</div>
                       <div class="">5 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">22 300р.</div>
-                      <div class="">38 000р.</div>
+                      <div class="">39 200р.</div>
                       <div class="">5 500р.</div>
                     </div>
 
@@ -667,7 +667,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-3">
 
             <div class="card d-flex flex-justify-between">
 
@@ -695,31 +695,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">18 000р.</div>
-                      <div class="">24 300р.</div>
+                      <div class="">25 500р.</div>
                       <div class="">3 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">20 500р.</div>
-                      <div class="">29 600р.</div>
+                      <div class="">30 800р.</div>
                       <div class="">4 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">23 000р.</div>
-                      <div class="">34 900р.</div>
+                      <div class="">36 100р.</div>
                       <div class="">4 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">25 500р.</div>
-                      <div class="">39 000р.</div>
+                      <div class="">41 200р.</div>
                       <div class="">5 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">28 500р.</div>
-                      <div class="">43 900р.</div>
+                      <div class="">45 100р.</div>
                       <div class="">5 500р.</div>
                     </div>
 
@@ -780,7 +780,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-4">
 
             <div class="card d-flex flex-justify-between">
 
@@ -808,31 +808,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">19 000р.</div>
-                      <div class="">23 300р.</div>
+                      <div class="">24 500р.</div>
                       <div class="">3 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">21 500р.</div>
-                      <div class="">27 500р.</div>
+                      <div class="">28 700р.</div>
                       <div class="">4 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">24 000р.</div>
-                      <div class="">34 000р.</div>
+                      <div class="">35 200р.</div>
                       <div class="">4 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">26 500р.</div>
-                      <div class="">40 000р.</div>
+                      <div class="">41 200р.</div>
                       <div class="">5 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">29 900р.</div>
-                      <div class="">45 000р.</div>
+                      <div class="">46 200р.</div>
                       <div class="">5 500р.</div>
                     </div>
 
@@ -896,7 +896,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-5">
 
             <div class="card d-flex flex-justify-between">
 
@@ -924,31 +924,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">20 700р.</div>
-                      <div class="">26 000р.</div>
+                      <div class="">27 200р.</div>
                       <div class="">3 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">22 500р.</div>
-                      <div class="">31 800р.</div>
+                      <div class="">33 000р.</div>
                       <div class="">4 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">25 000р.</div>
-                      <div class="">37 700р.</div>
+                      <div class="">38 900р.</div>
                       <div class="">4 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">27 500р.</div>
-                      <div class="">43 300р.</div>
+                      <div class="">44 500р.</div>
                       <div class="">5 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">30 000р.</div>
-                      <div class="">49 200р.</div>
+                      <div class="">50 400р.</div>
                       <div class="">5 500р.</div>
                     </div>
 
@@ -1011,7 +1011,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-6">
 
             <div class="card d-flex flex-justify-between">
 
@@ -1039,31 +1039,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">19 900р.</div>
-                      <div class="">30 400р.</div>
+                      <div class="">32 500р.</div>
                       <div class="">4 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">22 200р.</div>
-                      <div class="">36 800р.</div>
+                      <div class="">38 800р.</div>
                       <div class="">5 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">24 900р.</div>
-                      <div class="">42 300р.</div>
+                      <div class="">44 500р.</div>
                       <div class="">6 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">27 500р.</div>
-                      <div class="">49 400р.</div>
+                      <div class="">51 500р.</div>
                       <div class="">7 000р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">30 400р.</div>
-                      <div class="">53 900р.</div>
+                      <div class="">56 000р.</div>
                       <div class="">7 500р.</div>
                     </div>
 
@@ -1131,7 +1131,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-7">
 
             <div class="card d-flex flex-justify-between">
 
@@ -1159,31 +1159,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">32 700р.</div>
-                      <div class="">50 200р.</div>
+                      <div class="">54 000р.</div>
                       <div class="">7 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">38 700р.</div>
-                      <div class="">63 000р.</div>
+                      <div class="">66 000р.</div>
                       <div class="">8 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">48 700р.</div>
-                      <div class="">75 900р.</div>
+                      <div class="">78 000р.</div>
                       <div class="">9 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">53 700р.</div>
-                      <div class="">91 600р.</div>
+                      <div class="">96 000р.</div>
                       <div class="">10 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">61 700р.</div>
-                      <div class="">105 700р.</div>
+                      <div class="">113 000р.</div>
                       <div class="">11 500р.</div>
                     </div>
 
@@ -1256,7 +1256,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-8">
 
             <div class="card d-flex flex-justify-between">
 
@@ -1284,31 +1284,31 @@ get_header();
                     <div class="info d-flex">
                       <div class="">4×3×2,1</div>
                       <div class="">29 400р.</div>
-                      <div class="">47 100р.</div>
+                      <div class="">50 000р.</div>
                       <div class="">7 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">6×3×2,1</div>
                       <div class="">35 700р.</div>
-                      <div class="">59 600р.</div>
+                      <div class="">65 000р.</div>
                       <div class="">8 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">8×3×2,1</div>
                       <div class="">43 700р.</div>
-                      <div class="">73 800р.</div>
+                      <div class="">78 000р.</div>
                       <div class="">9 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">10×3×2,1</div>
                       <div class="">52 700р.</div>
-                      <div class="">87 300р.</div>
+                      <div class="">93 000р.</div>
                       <div class="">10 500р.</div>
                     </div>
                     <div class="info d-flex">
                       <div class="">12×3×2,1</div>
                       <div class="">60 700р.</div>
-                      <div class="">102 400р.</div>
+                      <div class="">110 000р.</div>
                       <div class="">11 500р.</div>
                     </div>
 
@@ -1381,7 +1381,7 @@ get_header();
 
           </div>
 
-          <div class="">
+          <div class="var-9">
 
             <div class="card d-flex flex-justify-between">
 
